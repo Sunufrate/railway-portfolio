@@ -1,0 +1,6 @@
+Ini, TOML
+
+baseURL = 'https://localhost/'
+languageCode = 'it-it'
+title = 'Il mio Portfolio Treni'
+theme = 'paper'
